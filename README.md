@@ -6,4 +6,6 @@ Left  -> A
 Right -> D
 Shoot -> Up Arrow
 
+The objective is to shoot all the remaining storm troopers
+May the force be with you
                                
